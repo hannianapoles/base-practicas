@@ -1,0 +1,17 @@
+#include<iostream>
+name spacestd;
+int main(){
+int calificacion;
+cout<<"por favor indica la calificacion con numero del 0 al 10"<<endl;
+cin>>calificacion,
+if (calificacion<=5){
+cout<<"recurse";
+{
+else if (calificacion>=6){
+cout<<"suficiente";
+else if (calificacion>=8){;
+cout<<"exelente";
+else
+}
+cout<<"exelente";
+{
