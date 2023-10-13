@@ -1,0 +1,29 @@
+
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	
+	("portada");
+	
+	cout<<("Modulo:Programacion basica");
+	
+	cout<<("Alumna:Hannia Sarai Nápoles Silva");
+	
+	cout<<("Edad:16 aÒos");
+	
+	cout<<("Grupo:305");
+	
+	cout<<("Grado:Tercer semestre");
+	
+	cout<<("Carrera:Tecnico Informatico Bachelier");
+	
+	cout<<("Escuela:Conalep Naucalpan 1");
+	
+	cout<<("Correo:hnapoles0222@conalepmex.edu.mx");
+	
+	cin.get();
+	
+	return 0;
+	
