@@ -1,0 +1,12 @@
+#include <stdlib.h>
+
+int main(){
+        printf("Nombre:Hannia Sarai Nápoles Silva ");
+        printf("Edad:16")
+        printf("Correo: hnapoles0222@conalepmex.edu.mx");
+        printf("Carrera:Profesional Tecnico Bachiller en informatica");
+        printf("Modulo:Programacion basica");
+
+        return 0;
+
+}
