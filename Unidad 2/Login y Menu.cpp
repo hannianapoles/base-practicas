@@ -71,7 +71,7 @@ return 0;
 		case 4:{
 			cout<<("Portada")<<endl;
 	
-    cout<<("Nombre:Alejandra Valdez Alonso")<<endl;
+    cout<<("Nombre:Hannia Sarai Nápoles Silva")<<endl;
 	
 	cout<<("Edad:16")<<endl;
 	
@@ -155,7 +155,7 @@ return 0;
 				multiplicacion = i*numero;
 				cout<<numero<<" x "<<i<<" = "<<multiplicacion<<endl;
 			}
-			cout<<"�Quieres generar otra tabla de multiplicar(s/n)? ";
+			cout<<"¿Quieres generar otra tabla de multiplicar(s/n)? ";
 			fflush(stdin);
 			cin>>seguir;
 		}
