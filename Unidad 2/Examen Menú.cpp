@@ -75,7 +75,7 @@ return 0;
 	
 	cout<<("Edad:16")<<endl;
 	
-	cout<<("Correo:alevaldezalonso@gmail.com")<<endl;
+	cout<<("Correo:hnapoles0222@conalepmex.edu.mx ")<<endl;
 	
 	cout<<("Modulo:Programacion Basica")<<endl;
 	
